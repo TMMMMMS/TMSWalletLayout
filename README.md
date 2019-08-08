@@ -1,5 +1,5 @@
 # TMSWalletLayout
-UICollectionView实现重叠的Wallet效果
+UICollectionView实现重叠的卡包效果
 
 ![](https://upload-images.jianshu.io/upload_images/2172432-010735cbba193730.gif?imageMogr2/auto-orient/strip)
 
