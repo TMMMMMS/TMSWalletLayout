@@ -11,3 +11,4 @@ UICollectionView实现重叠的Wallet效果
 
 其实自定义layout主要还是在计算每个item在collectionView中的布局，通过类`UICollectionViewLayoutAttributes`记录每个cell具体的布局信息，并存放于一个数组中。包括实现类似于tableView中的分区头、尾试图，也是基于此。
 
+如果你有意见或者建议，也欢迎来[这里](https://www.jianshu.com/p/c200b49d4939)与我交流
